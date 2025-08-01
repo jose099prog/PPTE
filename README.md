@@ -1,2 +1,2 @@
 # PPTE
-Predição de Potência de Turbina Eólica usando Redes Neurais Artificiais
+Predição da Potência de Turbina Eólica usando Redes Neurais Artificiais
